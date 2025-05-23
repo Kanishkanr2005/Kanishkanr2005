@@ -3,7 +3,7 @@
 ###
 
 <p align="left">👋 Hi, I'm Kanishka!<br><br>✨ Creating bugs since I wrote my first `hello world` in C. Debugging is my second language!  <br>📚 I'm currently learning AWS Cloud Services, deepening my skills in Full Stack Development using the MERN. </p><br>
-<p align="left">📬 Drop a mail:** kanishkanr2005 (at) gmail (dot) com</p>
+<p align="left">📬 Drop a mail: kanishkanr2005@gmail.com</p>
 ###
 
 <h2 align="left">I code with</h2>
